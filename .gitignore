@@ -1,0 +1,42 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+!gradle/wrapper/gradle-wrapper.jar
+
+# Ignore Gradle build output directory
+/build
+
+# Node.js
+/node_modules
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+# Custom
+/bin
+/src/main/resources/public/assets
