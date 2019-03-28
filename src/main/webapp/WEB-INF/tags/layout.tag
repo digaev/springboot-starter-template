@@ -15,7 +15,7 @@
 </head>
 <body>
   <div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom shadow-sm">
-    <h5>Open Blog</h5>
+    <h5>SpringBoot Started Template</h5>
   </div>
 
   <div class="container">
