@@ -11,7 +11,7 @@
   <% final String pageTitle = (String)jspContext.getAttribute("pageTitle"); %>
   <title><%= pageTitle == null ? "Default Title" : pageTitle %></title>
 
-  <%-- This file is creating by Webpack --%>
+  <%-- This file is created by Webpack --%>
   <%@ include file="/WEB-INF/views/_style.jsp" %>
 </head>
 <body>
@@ -23,7 +23,7 @@
     <jsp:doBody />
   </div>
 
-  <%-- This file is creating by Webpack --%>
+  <%-- This file is created by Webpack --%>
   <%@ include file="/WEB-INF/views/_script.jsp" %>
 </body>
 </html>
