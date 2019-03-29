@@ -23,5 +23,7 @@ gradle bootJar --continuous
 gradle bootRun
 ```
 
+Now open your browser [http://localhost:3000](http://localhost:3000).
+
 * Views are located in `src/main/webapp/WEB-INF/views`
 * Assets (JavaScript and CSS) are located in `src/main/webapp/WEB-INF/assets`
