@@ -16,7 +16,7 @@ yarn install
 # Compile assets (during development use `yarn run watch`)
 yarn run build
 
-# Run this command is separate terminal for continuous building
+# Run this command in separate terminal for continuous building
 gradle bootJar --continuous
 
 # Lauch the application
